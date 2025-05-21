@@ -648,7 +648,7 @@ Matthew Burgos
 - [Aartik saini](https://github.com/aartiksaini)
 - [Samarth Kumbhar](https://github.com/Samarth144)
 - [Nick Girmes] (https://github.com/ngirmes)
-- [Satish patil] (https://github.com/satispp24)
+- [Satish Patil] (https://github.com/satispp24)
 - [Jonathan B. Liu](https://github.com/JBL168)
 - [katzilipsiz](https://github.com/katzilipsiz)
 - [konishi takahiro](https://github.com/taka727)
